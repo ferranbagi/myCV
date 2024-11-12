@@ -1,0 +1,78 @@
+body {
+    background-color: #684424bd;                    /* Background colour taken from the header background image */
+    font-family: 'Times New Roman', Times, serif;     /* Set a default font for the page */
+    width: 800px;          
+    margin: 0 auto;                                   /* Center the container */
+    color: rgba(255, 255, 255, 0.805);              /* weaker white text color */
+    padding-left: 10px;
+}
+
+
+
+.header-image {
+    width: 100%;                /* Adjust the size of the image to the container*/ 
+}
+
+.header-container h1 {
+    position: absolute;         /* Set position absolute */
+    top: 110px;                 /* Set vertical distance to top */
+    padding-left: 15px;         /* Padding left */
+    color: white;             /* Color white: */ 
+    text-align: left;           /* Align to the left */
+}
+
+.header-container h2 {
+    position: absolute;         /* Set position absolute */
+    top:155px;                  /* Set vertical distance to top */
+    padding-left: 15px;         /* Padding left */
+    text-align: left;           /* Align to the left */
+}
+
+.header-container p {
+    position: absolute;         /* Set position absolute */
+    top:200px;                  /* Set vertical distance to top */
+    padding-left: 15px;         /* Padding left */
+    text-align: left;           /* Align to the left */
+}
+
+.header-container a {
+    color: rgba(255, 255, 255, 0.805);  /* Weaker white text color */ 
+    text-decoration: none;                /* No undelying the email link */
+}
+
+#about-me p {
+    text-align: justify; /*justify the paragraph*/
+}
+#education-list {
+    padding-left: 0;
+    list-style-type: none; /* Remove bullet points */
+}
+
+#education-list li {
+    display: flex;                /* Horizontal alignment */
+    align-items: center;          /* Vertically center-align image and text */
+    padding: 10px 0;              /* Add padding for spacing between items */
+}
+
+.edu-image {
+    width: 100px;                  /* Set image size */
+    height: auto;                  /* Maintain aspect ratio */
+    margin-right: 15px;            /* Space between image and text */
+}
+
+#education-list h3, #education-list p {
+    margin: 0;                    /* Reset default margins */
+}
+
+.flag-container {
+    display: flex;               /* Align items horizontally */
+    justify-content: center;     /* Centers the image horizontally */
+    align-items: center;         /* Vertical alignment the flags in the center */
+    gap: 10px;                   /* Adds space between the flags */
+    margin-top: 20px;            /* Adds space between the title and flags */
+}
+
+.flag {
+    width: 150px;                 /* Width */
+    height: auto;                 /* Maintain aspect ratio */
+}
