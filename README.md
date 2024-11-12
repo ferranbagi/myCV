@@ -27,6 +27,19 @@ This information architecture prioritizes clarity, simplicity, professionalism, 
 
 
 ### Visual design:  
+
+In the process of tackling an optimal visual design, I chose a color palette based on the brown background of the header image, so that the website feels cohesive. All text on the website is pure white with 80% opacity, except for my name, to put an emphasis on it
+
+The header of the website uses the image I selected as the background to give a strong first impression and create a visually appealing introduction to the information.
+
+Below the header, the sections are organized with bold titles to be easily recognizable and are separated by horizontal lines, which provide a clear visual structure, make the content easy to navigate.
+
+The sections that include lists are presented as bulleted lists to make information more scannable and organized, allowing readers to quickly identify key points.
+
+I also included a few images for recognizability. Specifically, I added the logos of the universities I’ve attended to make them easily identifiable for users. Additionally, I used flag icons to represent the languages I speak.
+
+Overall, this website is designed for clarity, cohesion, and visual appeal. By basing the color palette on the header background, using consistent formatting, and adding images and icons, I’ve created a user-friendly experience that highlights key information and leaves a strong first impression.
+
 ### Link to figma project:  
 https://www.figma.com/design/7MYu7HRZqU5aqChxY2G0KI/CV-design?node-id=1-2&t=Hvqwe5FyQhgo37W5-1
 
