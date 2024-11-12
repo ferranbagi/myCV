@@ -28,5 +28,6 @@ This information architecture prioritizes clarity, simplicity, professionalism, 
 
 ### Visual design:  
 ### Link to figma project:  
+https://www.figma.com/design/7MYu7HRZqU5aqChxY2G0KI/CV-design?node-id=1-2&t=Hvqwe5FyQhgo37W5-1
 
 
